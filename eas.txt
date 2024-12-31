@@ -1,0 +1,26 @@
+PS D:\@React-Native\Real\movie-last\movie> eas build -p android --profile preview
+(node:123528) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Loaded "env" configuration for the "preview" profile: no environment variables specified. Learn more: https://docs.expo.dev/build-reference/variables/
+✔ Using remote Android credentials (Expo server)
+✔ Using Keystore from configuration: Build Credentials ZWSXWQ4uUN (default)
+
+Compressing project files and uploading to EAS Build. Learn more: https://expo.fyi/eas-build-archive
+✔ Uploaded to EAS 25s
+
+Build details: https://expo.dev/accounts/gasrrrrrrr/projects/movie/builds/5f05c1d5-1441-40f3-b021-662def6fd075
+
+✔ Build finished
+
+🤖 Android app:
+https://expo.dev/artifacts/eas/cJyrFqEYoNSxqVLB8ioVHp.apk
+
+√ Install and run the Android build on an emulator? ... yes
+
+✔ Successfully downloaded app 20s
+
+? Select an emulator to run your app on » - Use arrow-keys. Return to submit.
+? Select an emulator to run your app on » - Use arrow-keys. Return to submit.
+>   INFO    | Storing crashdata in: C:\Users\ABDULA~1.POI\AppData\Local\Temp\\AndroidEmulator\emu-crash-34.2.13.db, detection is enabled for process: 124916
+    Pixel_3a_API_34_extension_level_7_x86_64
+    Pixel_3a_API_34_extension_level_7_x86_64_1
